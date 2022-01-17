@@ -11,10 +11,15 @@ Skills: C++/Java/C#/JavaScript/ HTML / CSS
 - 📫 How to reach me: malomair@umich.edu 
 
 My personal interests are: 
+
 🖌️ UI/UX Design
+
 📓 Language Learning (human)
+
 ⌨️ Programming
+
 🎮 Gaming
+
 ☪️✝️🔯Religious and Historical Studies
 
 

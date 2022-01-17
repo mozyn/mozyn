@@ -9,6 +9,7 @@ Skills: C++/Java/C#/JavaScript/ HTML / CSS
 - 🔭 I’m currently working on a few secret JavaScript webapps. 
 - 🌱 I’m currently learning ReactJS, Python, Django 
 - 📫 How to reach me: malomair@umich.edu 
+
 My personal interests are: 
 🖌️ UI/UX Design
 📓 Language Learning (human)

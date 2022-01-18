@@ -1,5 +1,5 @@
 ![](https://github.com/mozyn/mozyn/blob/main/cyberpunk-night-city.gif)
-### Buidling a city of knowledge, one line at a time. Welcome! 👋
+### Building a city of knowledge, one line at a time. Welcome! 👋
 
 
 

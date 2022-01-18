@@ -33,6 +33,7 @@ My personal interests are:
 ## Project Demos
 <img src="https://github.com/mozyn/mozyn/blob/main/report_card_demo.gif" width="1024"/> 
 <img src="https://github.com/mozyn/mozyn/blob/main/report_card_demo2.gif" width="512"/>
+<img src="https://github.com/mozyn/mozyn/blob/main/a11y_assessment_demo.gif"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozyn)](https://github.com/mozyn/github-readme-stats)

@@ -35,6 +35,7 @@ My personal interests are:
 <img src="https://github.com/mozyn/mozyn/blob/main/report_card_demo.gif" width="1024"/> 
 <img src="https://github.com/mozyn/mozyn/blob/main/report_card_demo2.gif" width="512"/>
 <img src="https://github.com/mozyn/mozyn/blob/main/a11y_assessment_demo.gif"/>
+<img src="https://github.com/mozyn/mozyn/blob/main/word_search_demo.gif" />
 
 
 

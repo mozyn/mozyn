@@ -29,6 +29,7 @@ My personal interests are:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mozyn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-al-omairi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/moealomairi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.moethinks.com/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozyn)](https://github.com/mozyn/github-readme-stats)
 
 ## Project Demos
 <img src="https://github.com/mozyn/mozyn/blob/main/report_card_demo.gif" width="1024"/> 
@@ -36,7 +37,6 @@ My personal interests are:
 <img src="https://github.com/mozyn/mozyn/blob/main/a11y_assessment_demo.gif"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozyn)](https://github.com/mozyn/github-readme-stats)
 
 
 

@@ -1,4 +1,4 @@
-![](https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/10/cyberpunk-night-city.gif?fit=750%2C364&quality=80&strip=all&ssl=1))
+![](https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/10/cyberpunk-night-city.gif?fit=750%2C364&quality=80&strip=all&ssl=1)
 ### Welcome! 👋
 
 

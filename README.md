@@ -32,7 +32,7 @@ My personal interests are:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozyn)](https://github.com/mozyn/github-readme-stats)
 
 ## Project Demos
-<img src= "https://github.com/mozyn/mozyn/blob/main/password_manager_demo.gif"/> <a href="https://github.com/mozyn/Password-Creator-v1.0">Password Manager</a> 
+<img src= "https://github.com/mozyn/mozyn/blob/main/bsafe.gif"/> <a href="https://github.com/mozyn/Password-Creator-v1.0">Password Manager</a> 
 <img src="https://github.com/mozyn/mozyn/blob/main/report_card_demo.gif" width="1024"/> <a href="https://github.com/mozyn/reportcard-maker">Report Card Maker</a> 
 <img src="https://github.com/mozyn/mozyn/blob/main/a11y_assessment_demo.gif"/> <a href="https://github.com/mozyn/Site-Accessibility-Assessment">Site a11y Assessment</a> 
 <img src="https://github.com/mozyn/mozyn/blob/main/word_search_demo.gif" /> <a href="https://github.com/mozyn/WordSearchSolver">Word Search Solver</a> 
